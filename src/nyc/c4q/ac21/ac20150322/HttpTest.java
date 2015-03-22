@@ -8,6 +8,9 @@ import java.util.Scanner;
  */
 public class HttpTest {
 
+    public static final String
+            URL = "http://alexsamuel.net/AliceInWonderland.txt";
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String input = scanner.nextLine();
