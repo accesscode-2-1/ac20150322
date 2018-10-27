@@ -1,3 +1,4 @@
+It features a simple interface, Material Design, and a tag system for easier organization. 
 # URLs and HTTP
 
 Goals:
